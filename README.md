@@ -1,3 +1,4 @@
+<h3>Date: 19.11.2026<h3>
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 
 <H3>Aim:</H3>
